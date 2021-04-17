@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import Drink from "./State";
+import Style from "./InlineCss";
 
-ReactDOM.render(<Drink />, document.getElementById("root"));
+ReactDOM.render(<Style />, document.getElementById("root"));
