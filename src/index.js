@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import Style from "./InlineCss";
+import App from "./Form";
 
-ReactDOM.render(<Style />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
