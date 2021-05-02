@@ -8,7 +8,7 @@ export default function App() {
     alert(`Hi ${state}`);
   };
 
-  const handleChange = e => {
+  const handleChange = (e) => {
     setState(e.target.value);
   };
 

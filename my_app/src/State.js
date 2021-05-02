@@ -1,9 +1,8 @@
 import React, { Component } from "react";
-import "./style.css";
 
 class Drink extends React.Component {
   state = {
-    isVisible: false
+    isVisible: false,
   };
 
   handleClick = () => {
